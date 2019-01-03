@@ -1,10 +1,10 @@
 {
   "name": "op-expresstrade",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Easy interaction with OPSkins ExpressTrade API systems.",
   "main": "op-main.js",
   "scripts": {
-    "test": "echo Module made by @AlaDyn172 && echo You have a test file named test.js in module folder"
+    "test": "echo Module rewrote by @AlaDyn172 and made by @TheTimmaeh"
   },
   "repository": {
     "type": "git",
