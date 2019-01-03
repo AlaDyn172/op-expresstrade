@@ -1,6 +1,6 @@
 {
   "name": "op-expresstrade",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Easy interaction with OPSkins ExpressTrade API systems.",
   "main": "op-main.js",
   "scripts": {
