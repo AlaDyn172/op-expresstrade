@@ -1,0 +1,30 @@
+{
+  "name": "op-expresstrade",
+  "version": "1.0.1",
+  "description": "Easy interaction with OPSkins ExpressTrade API systems.",
+  "main": "op-main.js",
+  "scripts": {
+    "test": "echo Module made by @AlaDyn172 && echo You have a test file named test.js in module folder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlaDyn172/op-expresstrade.git"
+  },
+  "keywords": [
+    "OPSKINS",
+    "ExpressTrade"
+  ],
+  "author": "AlaDyn172",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlaDyn172/op-expresstrade/issues"
+  },
+  "homepage": "https://github.com/AlaDyn172/op-expresstrade#readme",
+  "dependencies": {
+    "events": "^3.0.0",
+    "node-2fa": "^1.1.2",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0",
+    "util": "^0.11.1"
+  }
+}
